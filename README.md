@@ -1,1 +1,64 @@
-# Poo 2026
+# 👋 Olá, eu sou Matheus Henrique!
+
+🎓 **Estudante de Ciência da Computação**  
+📚 Repositório criado para a disciplina de **Programação Orientada a Objetos (POO)**.
+
+---
+
+## 👨‍💻 Sobre mim
+
+Sou estudante de Ciência da Computação e gosto de aprender novas tecnologias e desenvolver soluções utilizando programação. Tenho interesse principalmente em desenvolvimento de software, programação orientada a objetos e desenvolvimento web.
+
+Além da programação, também participo de um projeto de capoeira, onde atuo na organização administrativa e no suporte às atividades do projeto.
+
+---
+
+## 🚀 Tecnologias que estudo
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,git,github,vscode" />
+</p>
+
+---
+
+## 📂 Sobre este repositório
+
+Este repositório foi criado para armazenar as atividades, exercícios e projetos desenvolvidos durante a disciplina de **Programação Orientada a Objetos (POO)**.
+
+Aqui você encontrará conteúdos relacionados a:
+
+- 📌 Classes e Objetos
+- 📌 Encapsulamento
+- 📌 Herança
+- 📌 Polimorfismo
+- 📌 Abstração
+- 📌 Tratamento de Exceções
+- 📌 Coleções
+- 📌 Boas práticas de programação
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Contato
+
+- 📧 Email: seuemail@exemplo.com
+- 💼 LinkedIn: https://linkedin.com/in/seuusuario
+- 🐙 GitHub: https://github.com/SEU_USUARIO
+
+---
+
+<div align="center">
+
+### Obrigado pela visita! 🚀
+
+*"Sempre aprendendo e evoluindo através da programação."*
+
+</div>
