@@ -49,9 +49,8 @@ Aqui você encontrará conteúdos relacionados a:
 
 ## 📫 Contato
 
-- 📧 Email: seuemail@exemplo.com
-- 💼 LinkedIn: https://linkedin.com/in/seuusuario
-- 🐙 GitHub: https://github.com/SEU_USUARIO
+- 📧 Email: matheus.santos5@estudante.ifgoiano.edu.br
+- 🐙 GitHub: https://github.com/MhssMC0
 
 ---
 
