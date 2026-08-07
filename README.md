@@ -10,14 +10,6 @@ Este repositório foi criado para armazenar as atividades e projetos desenvolvid
   <img src="https://skillicons.dev/icons?i=java,python,git,github,vscode" />
 </p>
 
-## 📚 Conteúdo
-
-- Classes e Objetos
-- Encapsulamento
-- Herança
-- Polimorfismo
-- Abstração
-
 ---
 
 ⭐ Obrigado pela visita!
