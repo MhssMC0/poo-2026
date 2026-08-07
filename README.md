@@ -7,7 +7,7 @@ Este repositório foi criado para armazenar as atividades e projetos desenvolvid
 ## 💻 Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,git,github,vscode" />
 </p>
 
 ## 📚 Conteúdo
