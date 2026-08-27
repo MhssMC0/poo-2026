@@ -1,5 +1,5 @@
 /*
-Dominio: EmpresaDeJogos
+Dominio: Empresa
 
 1. Classes: Peao, Patrao, Main
 
@@ -44,3 +44,16 @@ public static void main(String[] args){
     System.out.println("Anos de Trabalho: " + patrao2.getAnosTrabalhando());  
     }  
 }
+
+/*
+Criterios atingidos: 
+Atributos fechados (private em Java, _ em Python), acessados por getters e setters ou properties.
+Construtor que exige os dados indispensáveis e reaproveita os setters para validar.
+Pelo menos duas regras de validação que recusem valores inválidos.
+A demonstração roda e mostra uma criação válida, uma recusa e as duas formas de criação.
+
+Criterios não atingidos:
+Duas formas de criar o objeto: sobrecarga em Java ou parâmetros padrão em Python.
+Duas classes, uma delas usando objetos da outra.
+
+*/
