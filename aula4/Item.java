@@ -4,7 +4,6 @@ public class Item {
     private String nome;
     private int bonus;
 
-    // Construtor
     public Item(String nome, int bonus) {
         this.nome = nome;
 
@@ -16,17 +15,14 @@ public class Item {
         }
     }
 
-    // Getter do nome
     public String getNome() {
         return nome;
     }
 
-    // Getter do bonus
     public int getBonus() {
         return bonus;
     }
 
-    // Descrição do item
     public String descricao() {
         return nome + " (+" + bonus + ")";
     }
