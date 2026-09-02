@@ -25,32 +25,25 @@ public class Main {
 
         System.out.println("=== EXERCÍCIO 1 E 4: ITEM E MAGO ===");
 
-        // Criando o item
         Item espada = new Item("Espada de Aço", 3);
 
         System.out.println("Item criado: " + espada.descricao());
 
-        // Criando o Mago
         Mago elara = new Mago("Elara", 100, 5);
 
-        // Mago pega a espada
         elara.pegar(espada);
 
-        // Exibindo ficha
         elara.ficha();
 
 
         System.out.println("=== EXERCÍCIO 3: GUERREIRO ===");
 
-        // Criando o Guerreiro
         Guerreiro bran = new Guerreiro("Bran", 100, 5);
 
         System.out.println("Vida inicial do Bran: " + bran.getVida());
 
-        // Aplicando 8 de dano
         bran.receberDano(8);
 
-        // Deve ficar com 97 de vida
         System.out.println("Vida do Bran após receber 8 de dano: "
                 + bran.getVida());
 
@@ -62,10 +55,8 @@ public class Main {
         System.out.println("Mana inicial da Elara: "
                 + elara.getMana());
 
-        // Tentativa de colocar mana negativa
         elara.setMana(-10);
 
-        // A mana continua em 50
         System.out.println("Mana da Elara após tentar colocar -10: "
                 + elara.getMana());
     }
