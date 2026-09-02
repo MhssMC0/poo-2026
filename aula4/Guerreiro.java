@@ -3,18 +3,15 @@ package aula4;
 public class Guerreiro extends Personagem {
     private int defesa;
 
-    // Construtor
     public Guerreiro(String nome, int vida, int nivel) {
         super(nome, vida, nivel);
         this.defesa = 5;
     }
 
-    // Getter da defesa
     public int getDefesa() {
         return defesa;
     }
 
-    // Setter da defesa
     public void setDefesa(int defesa) {
         if (defesa < 0) {
             System.out.println("Erro: a defesa não pode ser negativa.");
@@ -24,7 +21,6 @@ public class Guerreiro extends Personagem {
         this.defesa = defesa;
     }
 
-    // Sobrescrevendo receberDano()
     @Override
     public void receberDano(int dano) {
         int danoEfetivo = Math.max(0, dano - defesa);
@@ -38,7 +34,6 @@ public class Guerreiro extends Personagem {
         super.receberDano(danoEfetivo);
     }
 
-    // Sobrescrevendo ficha()
     @Override
     public void ficha() {
         super.ficha();
